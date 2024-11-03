@@ -1,1 +1,1 @@
-Línea añadida desde la rama 'rama_1'
+Línea 2 añadida desde la rama 'rama_1'
